@@ -10,7 +10,7 @@ const Card = () => {
         <a href="#">
           <img
             className="pay-card pay-card1 rounded-t-lg"
-            src="/payment.svg"
+            src="/fine-app/payment.svg"
             alt=""
             width="90%"
           />
@@ -53,7 +53,7 @@ const Card = () => {
         <a href="#">
           <img
             className="pay-card rounded-t-lg pt-2"
-            src="/report_new.svg"
+            src="/fine-app/report_new.svg"
             alt=""
             width="111%"
           />
@@ -96,7 +96,7 @@ const Card = () => {
         <a href="#">
           <img
             className="pay-card rounded-t-lg pt-12"
-            src="/new_al.svg"
+            src="/fine-app/new_al.svg"
             alt=""
             width="110%"
           />
