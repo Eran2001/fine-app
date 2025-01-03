@@ -53,7 +53,7 @@ const Home = () => {
       <Navbar />
       <div className="hero-text-main">
         <div className="image-container">
-          <img src="/hero.jpg" className="hero-img" alt="Hero" />
+          <img src="/fine-app/hero.jpg" className="hero-img" alt="Hero" />
         </div>
         <h1 className={`hero-text ${slideIn ? 'slide-in' : ''}`}>
           Welcome <span>{texts[textIndex]}</span>

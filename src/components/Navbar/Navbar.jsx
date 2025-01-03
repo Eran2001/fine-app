@@ -37,7 +37,7 @@ const Navbar = () => {
         className="text-[#fff] font-bold cursor-pointer"
         onClick={() => navigate("/")}
       >
-        <img src="/logo.png" width="40px" alt="" />
+        <img src="/fine-app/logo.png" width="40px" alt="" />
       </div>
       <div className="flex space-x-10">
         <div

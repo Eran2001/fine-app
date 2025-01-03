@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="flex items-center w-full gap-4">
             <img
               alt="Logo Preview"
-              src="/logo.png"
+              src="/fine-app/logo.png"
               width="120"
             />
             <div className="text-5xl">FINE.LK</div>
